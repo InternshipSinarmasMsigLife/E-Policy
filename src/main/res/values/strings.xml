@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E-Policy</string>
+    <string name="usernameR">Username</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="passwordR">Password</string>
+    <string name="confirm_password">Konfirmasi_Password</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Tanggal Lahir</string>
+    <string name="laki2">Laki - Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="nomor_telephone">Nomor Telephone</string>
+    <string name="daftar">Daftar</string>
+    <string name="pemegang_polis">Pemegang Polis</string>
+    <string name="tertanggung">Tertanggung</string>
+    <string name="data_asuransi">Data Asuransi</string>
+    <string name="manfaat_polis">Manfaat Polis</string>
+    <string name="investasi_transaksi">Investasi Transaksi</string>
+    <string name="status_pembayaran">Status Pembayaran</string>
+    <string name="rekening">Rekening</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
